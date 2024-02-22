@@ -19,7 +19,7 @@ def predict_datapoint():
     else:
         data = CustomData(
             gender=request.form.get('gender'),
-            race_ethnicaity=request.form.get('ethnicaity'),
+            race_ethnicity=request.form.get('ethnicity'),
             parental_level_of_education=request.form.get('parental_level_of_education'),
             lunch=request.form.get('lunch'),
             test_preparation_course=request.form.get('test_preparation_course'),
@@ -44,7 +44,7 @@ def predictscore():
     
     data = CustomData(
             gender=body['gender'],
-            race_ethnicaity=body['ethnicaity'],
+            race_ethnicaity=body['race_ethnicaity'],
             parental_level_of_education=body['parental_level_of_education'],
             lunch=body['lunch'],
             test_preparation_course=body['test_preparation_course'],
