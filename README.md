@@ -93,13 +93,12 @@ You can access the result from web app by filling the form and result will displ
 </tr>
 <tr>
 <td>race_ethnicity</td>
-<td>group B/ group C/ group A/ group D/ group E</td>
+<td>group B,group C, group A, group D, group E</td>
 <td>string</td>
 </tr>
 <tr>
 <td>parental_level_of_education</td>
-<td>bachelor's degree/some college/ master's degree/ associate's degree
-/high school/some high school</td>
+<td>bachelor's degree, some college,  master's degree, associate's degree, high school, some high school</td>
 <td>string</td>
 <tr>
 <td>lunch</td>
