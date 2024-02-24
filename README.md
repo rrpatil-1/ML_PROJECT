@@ -61,7 +61,7 @@ The dataset used in this project contains information about students' demographi
 4. connect git hub with aws using codepipeline [codepipeline](https://www.youtube.com/watch?v=4tDjVFbi31o)
 5. Documents for codepipeline [doc](https://aws.amazon.com/getting-started/hands-on/continuous-deployment-pipeline/)
 
-# How to get result 
+# How to get prediction result 
 You can access the result from web app by filling the form and result will display on page itself
 ## Response Using API endpoint
 1. Download the postman application to test the api [postman](https://www.postman.com/downloads/)
