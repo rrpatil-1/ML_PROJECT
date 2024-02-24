@@ -44,7 +44,7 @@ def predictscore():
     
     data = CustomData(
             gender=body['gender'],
-            race_ethnicaity=body['race_ethnicaity'],
+            race_ethnicity=body['race_ethnicity'],
             parental_level_of_education=body['parental_level_of_education'],
             lunch=body['lunch'],
             test_preparation_course=body['test_preparation_course'],
